@@ -25,11 +25,17 @@ A powerful tool that converts documents (PDF, DOCX, images, and plain text) into
 
 ## 💻 How It Works
 Step 1: Install The below Libraries First
+
 !pip install docx2txt
+
 !pip install -q gradio transformers python-docx pytesseract
+
 !sudo apt install -y tesseract-ocr poppler-utils
+
 !pip install pymupdf
+
 !pip install transformers pytesseract Pillow fpdf python-docx gradio
+
 !apt install tesseract-ocr -y
 
 Step 2: Install/run  the  main.ipnb file .
