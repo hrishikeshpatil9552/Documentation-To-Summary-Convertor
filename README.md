@@ -24,7 +24,7 @@ A powerful tool that converts documents (PDF, DOCX, images, and plain text) into
 ---
 
 ## 💻 How It Works
-#Step 1: Install The below Libraries First
+# Step 1: Install The below Libraries First
 
 !pip install docx2txt
 
@@ -38,7 +38,8 @@ A powerful tool that converts documents (PDF, DOCX, images, and plain text) into
 
 !apt install tesseract-ocr -y
 
-#Step 2: Install/run  the  main.ipnb file .
+
+# Step 2: Install/run  the  main.ipnb file .
 
 ⚠️ Note: This project is built specifically for Jupyter Notebook and may not work correctly as a regular Python script (.py file).
 
