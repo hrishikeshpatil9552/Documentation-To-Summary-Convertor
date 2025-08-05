@@ -41,7 +41,7 @@ Step 2: Install/run  the  main.ipnb file .
 ![Image Alt](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b4286cbc743180da67922c92e47f12861e7fd1bf/interface%20for%20the%20%20topic.png)
 
 **2) WorkFlow Of Project**
-[![Watch the Demo](assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=X6miHl-m808)
+[![Watch the Demo]("C:\Users\HRISHIKESH\Downloads\Thumbnail.jpg")](https://www.youtube.com/watch?v=X6miHl-m808)
 
 
 
