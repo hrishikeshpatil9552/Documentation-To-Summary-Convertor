@@ -48,7 +48,7 @@ A powerful tool that converts documents (PDF, DOCX, images, and plain text) into
 ![Image Alt](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b4286cbc743180da67922c92e47f12861e7fd1bf/interface%20for%20the%20%20topic.png)
 
 **2) WorkFlow Of Project (link on Below page)**
-[![Watch the Demo](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b119a5aaa5ca085aea77fb56be0f2f3748179798/Thumbnail.jpg)](https://www.youtube.com/watch?v=X6miHl-m808)
+[![Watch the Demo](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b119a5aaa5ca085aea77fb56be0f2f3748179798/Thumbnail.jpg)](https://youtu.be/uIfkiPwAcxo)
 
 
 
